@@ -1,0 +1,23 @@
+{
+  "name": "coursera-ibm-nodejs-mongodb-logging",
+  "version": "1.0.0",
+  "description": "https://www.coursera.org/learn/intermediate-back-end-development-with-node-js-mongodb/ coursera-ibm-nodejs-mongodb-logging",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloomy-penguin-kim/coursera-ibm-nodejs-mongodb-logging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloomy-penguin-kim/coursera-ibm-nodejs-mongodb-logging/issues"
+  },
+  "homepage": "https://github.com/gloomy-penguin-kim/coursera-ibm-nodejs-mongodb-logging#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "winston": "^3.17.0"
+  }
+}
